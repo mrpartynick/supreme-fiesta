@@ -1,6 +1,6 @@
 blablabla
 
-
+Эта инфа из ветки мастер
 
 some info
 

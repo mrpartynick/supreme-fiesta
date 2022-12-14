@@ -38,3 +38,10 @@ git config --global user.email myEmail@example.com**
 **git add**
 **git commit -m “ “**
 **git push**
+Затем к ним добавим еще вот эти:
+
+**git init**
+**git branch**
+**git merge**
+**git checkout**
+Эти команды вам пригодятся в случае, если вы будете работать с другими людьми или захотите внести какие-то изменения в проект и протестировать их до создания коммита.

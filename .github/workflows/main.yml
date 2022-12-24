@@ -1,1 +1,46 @@
 выучил Git
+git config --global user.name "vakurin.sergej"
+git config --global user.email "sergey.vakurin@bk.ru"
+
+git remote add origin https://github.com/mrpartynick/supreme-fiesta.git
+git branch -M main - эта ветка будет главной/ можно вместо main указать master
+git@github.com:VakurinSergej/Repo-2022-12-22.git
+____________________________________________________
+…or create a new repository on the command line
+echo "# Repo-2022-12-22" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:VakurinSergej/Repo-2022-12-22.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin git@github.com:VakurinSergej/Repo-2022-12-22.git
+git branch -M main
+git push -u origin main
+_____________________________________
+https://github.com/shutnik42/supreme-fiesta/blob/master/test.md
+
+
+
+git init
+git branch -m <name>
+git add Hello\ world.md
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
+git commit -m
+
+
+    commit
+    branch
+    checkout
+    cherry-pick
+    reset
+    revert
+    rebase
+    merge
+
+
+
+
